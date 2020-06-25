@@ -1,2 +1,2 @@
 # tic-tac-toe
-play tic tac toe in terminal
+implemented an ai to play tic-tac-toe optimally.
